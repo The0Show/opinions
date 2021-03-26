@@ -1,0 +1,262 @@
+{
+    "0": {
+        "question": "What is a more romantic Valentine's gift?",
+        "choices": {
+            "0": {
+                "name": "Chocolates",
+                "ratio": "26.9"
+            },
+            "1": {
+                "name": "Roses",
+                "ratio": "73.1"
+            }
+        }
+    },
+    "1": {
+        "question": "I'd rather live in a house on...",
+        "choices": {
+            "0": {
+                "name": "A mountain",
+                "ratio": "36.9"
+            },
+            "1": {
+                "name": "The beach",
+                "ratio": "63.1"
+            }
+        }
+    },
+    "2": {
+        "question": "Which century would you prefer to live in?",
+        "choices": {
+            "0": {
+                "name": "19th century",
+                "ratio": "20.6"
+            },
+            "1": {
+                "name": "22nd century",
+                "ratio": "79.4"
+            }
+        }
+    },
+    "3": {
+        "question": "Which color do you like better?",
+        "choices": {
+            "0": {
+                "name": "Red",
+                "ratio": "32.4"
+            },
+            "1": {
+                "name": "Blue",
+                "ratio": "67.6"
+            }
+        }
+    },
+    "4": {
+        "question": "Have you ever written a fan letter?",
+        "choices": {
+            "0": {
+                "name": "Yes",
+                "ratio": "20.3"
+            },
+            "1": {
+                "name": "No",
+                "ratio": "79.7"
+            }
+        }
+    },
+    "5": {
+        "question": "Which sport do you prefer to watch on TV?",
+        "choices": {
+            "0": {
+                "name": "Basketball",
+                "ratio": "61.1"
+            },
+            "1": {
+                "name": "Soccer",
+                "ratio": "38.9"
+            }
+        }
+    },
+    "6": {
+        "question": "Do you brush your teeth before or after breakfast?",
+        "choices": {
+            "0": {
+                "name": "Before",
+                "ratio": "40.3"
+            },
+            "1": {
+                "name": "After",
+                "ratio": "59.7"
+            }
+        }
+    },
+    "7": {
+        "question": "What temperature do you prefer?",
+        "choices": {
+            "0": {
+                "name": "Boiling hot",
+                "ratio": "44.6"
+            },
+            "1": {
+                "name": "Freezing cold",
+                "ratio": "55.4"
+            }
+        }
+    },
+    "8": {
+        "question": "How tall would you say you are?",
+        "choices": {
+            "0": {
+                "name": "Average",
+                "ratio": "51.9"
+            },
+            "1": {
+                "name": "Above/Below average",
+                "ratio": "48.1"
+            }
+        }
+    },
+    "9": {
+        "question": "Which smells worse?",
+        "choices": {
+            "0": {
+                "name": "Bad breath",
+                "ratio": "70.8"
+            },
+            "1": {
+                "name": "Old socks",
+                "ratio": "29.2"
+            }
+        }
+    },
+    "10": {
+        "question": "I'd rather be a famous...",
+        "choices": {
+            "0": {
+                "name": "Chef",
+                "ratio": "40.4"
+            },
+            "1": {
+                "name": "Scientist",
+                "ratio": "59.6"
+            }
+        }
+    },
+    "11": {
+        "question": "Which do you do last before going to bed?",
+        "choices": {
+            "0": {
+                "name": "Brush teeth",
+                "ratio": "73.2"
+            },
+            "1": {
+                "name": "Wash face",
+                "ratio": "26.8"
+            }
+        }
+    },
+    "12": {
+        "question": "Can you play a musical instrument?",
+        "choices": {
+            "0": {
+                "name": "Yes",
+                "ratio": "63.2"
+            },
+            "1": {
+                "name": "No",
+                "ratio": "36.8"
+            }
+        }
+    },
+    "13": {
+        "question": "Which seat do you prefer in an airplane?",
+        "choices": {
+            "0": {
+                "name": "Aisle",
+                "ratio": "63.2"
+            },
+            "1": {
+                "name": "Window",
+                "ratio": "79.0"
+            }
+        }
+    },
+    "14": {
+        "question": "Can you snap your fingers?",
+        "choices": {
+            "0": {
+                "name": "Yes",
+                "ratio": "88.5"
+            },
+            "1": {
+                "name": "No",
+                "ratio": "11.5"
+            }
+        }
+    },
+    "15": {
+        "question": "Which hot drink do you prefer?",
+        "choices": {
+            "0": {
+                "name": "Coffee",
+                "ratio": "52.4"
+            },
+            "1": {
+                "name": "Tea",
+                "ratio": "47.6"
+            }
+        }
+    },
+    "16": {
+        "question": "Have you ridden a public bus in the last month?",
+        "choices": {
+            "0": {
+                "name": "Yes",
+                "ratio": "21.8"
+            },
+            "1": {
+                "name": "No",
+                "ratio": "78.2"
+            }
+        }
+    },
+    "17": {
+        "question": "You meet a famous person. Which would you rather have?",
+        "choices": {
+            "0": {
+                "name": "Autograph",
+                "ratio": "15.9"
+            },
+            "1": {
+                "name": "Photo with the person",
+                "ratio": "84.1"
+            }
+        }
+    },
+    "18": {
+        "question": "What trick would you like to teach your dog?",
+        "choices": {
+            "0": {
+                "name": "Talking",
+                "ratio": "87.4"
+            },
+            "1": {
+                "name": "Reading",
+                "ratio": "12.6"
+            }
+        }
+    },
+    "19": {
+        "question": "In which reality show would you like to participate?",
+        "choices": {
+            "0": {
+                "name": "Physical challenge",
+                "ratio": "46.6"
+            },
+            "1": {
+                "name": "Mental challenge",
+                "ratio": "53.4"
+            }
+        }
+    }
+}

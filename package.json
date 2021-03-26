@@ -1,0 +1,16 @@
+{
+  "name": "nodejsgame",
+  "version": "1.0.0",
+  "description": "featuring a 48 hour deadline",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "ascii-art-image": "^1.2.2",
+    "nexe": "^4.0.0-beta.18"
+  }
+}
